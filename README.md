@@ -40,13 +40,13 @@
  <p align='center'>
  <a href="https://t.me/drygou" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />          </a>&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/keibee#6212/" target="_blank">
+  <a href="https://discordapp.com/users#6212/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />          </a>&nbsp;&nbsp;
  <p align='center'>
    :mailbox_with_mail: E-mail для связи: <a href='mailto:Thekeibee@yandex.ru'>Thekeibee@yandex.ru</a>
 </p>
 ---
-## :wrench: Инструменты
+## :wrench: Инструменты :
 - Intellij Idea и Android Studio
 - языки Java/Kotlin
 - архитектура MVVM

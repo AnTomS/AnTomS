@@ -46,7 +46,7 @@
    :mailbox_with_mail: E-mail для связи: <a href='mailto:Thekeibee@yandex.ru'>Thekeibee@yandex.ru</a>
 </p>
 ---
-## :wrench: Инструменты :
+## :wrench: Инструменты:
 - Intellij Idea и Android Studio
 - языки Java/Kotlin
 - архитектура MVVM
@@ -61,7 +61,7 @@
 ***Задача***: Создание клиент-серверного приложения по типу LinkedIn.
 
 :white_check_mark: [Собственная реализация приложения Инстаграм)](https://github.com/AnTomS/Instagram)<br>
-***Задача***: Собственная реализация приложения Инстаграм.
+***Задача***: Реализация приложения Инстаграм.
 ---
 ## :page_with_curl: Сертификаты:
  * [Разработка мобильных приложений с нуля, сертификат](https://disk.yandex.ru/i/AC6srfNID93tcw) <br>

@@ -45,7 +45,9 @@
  <p align='center'>
    :mailbox_with_mail: E-mail для связи: <a href='mailto:Thekeibee@yandex.ru'>Thekeibee@yandex.ru</a>
 </p>
+
 ---
+
 ## :wrench: Инструменты:
 - Intellij Idea и Android Studio
 - языки Java/Kotlin

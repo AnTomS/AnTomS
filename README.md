@@ -61,6 +61,7 @@
 
 :white_check_mark: [Дипломный проект по Android разработке(NeWorkApp)](https://github.com/AnTomS/NeWork)<br>
 ***Задача***: Создание клиент-серверного приложения по типу LinkedIn.
+
 :white_check_mark: [Приложение для заказа готовых блюд)]( https://github.com/AnTomS/OrderingFood)<br>
 ***Задача***: Создание клиент-серверного приложения для заказа еды по ТЗ.
 

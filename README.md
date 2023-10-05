@@ -61,10 +61,13 @@
 
 :white_check_mark: [Дипломный проект по Android разработке(NeWorkApp)](https://github.com/AnTomS/NeWork)<br>
 ***Задача***: Создание клиент-серверного приложения по типу LinkedIn.
+:white_check_mark: [Приложение для заказа готовых блюд)]( https://github.com/AnTomS/OrderingFood)<br>
+***Задача***: Создание клиент-серверного приложения для заказа еды по ТЗ.
 
 :white_check_mark: [Собственная реализация приложения Инстаграм)](https://github.com/AnTomS/Instagram)<br>
 ***Задача***: Реализация приложения Инстаграм.
 ---
+
 ## :page_with_curl: Сертификаты:
  * [Разработка мобильных приложений с нуля, сертификат](https://disk.yandex.ru/i/AC6srfNID93tcw) <br>
  * [GIT - система контроля версий](https://disk.yandex.ru/i/GJmDth_NRFjaFQ) <br>
